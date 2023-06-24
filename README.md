@@ -1,10 +1,9 @@
-👋 Hi, I’m Viviane (Lan) LE. 
+👋 Hi, I’m Viviane LE. 
 
-I am a highly experienced professional with a background in compliance and a strong knowledge of data privacy. As a former legal & compliance officer, I have a deep understanding of data privacy regulations and best practices. 
+I am a highly experienced professional with a background in legal compliance. Currently, I am working as a data analyst in the banking industry at Banque Populaire du Nord. My main responsibility is to create and develop data-driven reports for the finance security department using Power BI and SQL. These reports help identify areas requiring corrective actions.
+In addition to my expertise in data analysis, I also possess project management skills.
 
-Currently, I am working as a data analyst in banking industry (at _Banque Populaire du Nord_ - a French bank), where my mission is to create and develop multiple reports for the finance security department by using Power BI and SQL.
-
-📫 You can reach me by email: l**********@gmail.com 
+📫 Reach me by email at: viviane.le.2311@gmail.com 
 
 <!---
 vivi-le/vivi-le is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
